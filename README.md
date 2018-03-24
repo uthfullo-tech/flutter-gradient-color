@@ -1,5 +1,10 @@
 # flutter-gradient-color
 Flutter Gradient Color implementation for Android and iOS. This sample project helps the user to use gradient colors on any Widget.
+
+
+<img src="/ss/Screenshot_2018-03-24-02-36-48.png" width="320">
+
+
 # How to implement
 Just copy the MyGradientColors.dart file from lib folder and paste it to your lib folder. You can use it as any widget color.
 
